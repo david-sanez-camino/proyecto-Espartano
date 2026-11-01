@@ -1,0 +1,3 @@
+-keep class com.espartano.app.data.db.entity.** { *; }
+-keep class com.itextpdf.** { *; }
+-dontwarn com.itextpdf.**

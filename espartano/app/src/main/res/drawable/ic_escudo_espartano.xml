@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="180dp"
+    android:height="180dp"
+    android:viewportWidth="180"
+    android:viewportHeight="180">
+
+    <!-- Escudo exterior dorado -->
+    <path
+        android:fillColor="#C9A84C"
+        android:pathData="M90,6 L166,40 L166,118 L90,174 L14,118 L14,40 Z" />
+
+    <!-- Escudo interior oscuro -->
+    <path
+        android:fillColor="#0F0F0F"
+        android:pathData="M90,18 L152,48 L152,112 L90,162 L28,112 L28,48 Z" />
+
+    <!-- Borde interior dorado -->
+    <path
+        android:fillColor="#8A6A20"
+        android:pathData="M90,22 L148,51 L148,110 L90,158 L32,110 L32,51 Z" />
+
+    <!-- Relleno interior oscuro -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M90,26 L144,54 L144,108 L90,154 L36,108 L36,54 Z" />
+
+    <!-- Lambda Λ — símbolo espartano -->
+    <path
+        android:fillColor="#C9A84C"
+        android:pathData="M58,136 L90,52 L122,136 L110,136 L90,72 L70,136 Z" />
+
+</vector>
